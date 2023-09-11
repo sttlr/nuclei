@@ -71,6 +71,9 @@
             "template-guide/network",
             "template-guide/dns",
             "template-guide/file",
+            "template-guide/code",
+            "template-guide/multi",
+            "template-guide/flow",
             {
                "group":"Operators",
                "pages":[
